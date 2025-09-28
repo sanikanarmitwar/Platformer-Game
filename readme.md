@@ -1,4 +1,4 @@
-# Assignment 1 - Computer Graphics
+# Platformer Game
 
 ### Key Files:
 
@@ -17,3 +17,4 @@
 
    ```
 3. Use space bar to jump in level 3
+
